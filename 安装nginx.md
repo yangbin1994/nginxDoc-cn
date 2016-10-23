@@ -20,7 +20,7 @@ nginx可被差异化的安装，依赖于处于的操作系统环境。
 
 #### 从资源构建 & Building from Sources
 
-如果需要一些指定的功能，使用工具包或者端口是无效的，nginx也可以通过资源文件被编译。当灵活性更大时，这种方式可能对于新手来说比较复杂。获得更多信息，参见[使用资源构建nginx](http://nginx.org/en/docs/configure.html).
+如果需要一些指定的功能，使用工具包或者端口是无效的，nginx也可以通过资源文件被编译。当灵活性更大时，这种方式可能对于新手来说比较复杂。获得更多信息，参见[使用资源构建nginx。](http://nginx.org/en/docs/configure.html)
 
 > If some special functionality is required, not available with packages and ports, nginx can also be compiled from source files. While more flexible, this approach may be complex for a beginner. For more information, see [Building nginx from Sources](http://nginx.org/en/docs/configure.html).
 
